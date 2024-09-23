@@ -30,5 +30,6 @@ urls=(
     https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/3rd_domains.txt
     https://raw.githubusercontent.com/ethan-xd/ethan-xd.github.io/master/fb.txt
     https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt
+    https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
     # Commented out because it whitelists sites including doubleclick.net and ad.atdmt.com
 
