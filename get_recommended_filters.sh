@@ -8,6 +8,7 @@ urls=(
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
     # Commented out because it looks suspicious
     # https://www.aadvantageeshopping.com/adBlockWhitelist.php
+    https://abpvn.com/vip/admin.txt
     https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/mac.txt
