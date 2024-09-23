@@ -5,11 +5,13 @@ touch whitelist.csv
 
 # declare an array of urls
 urls=(
-    https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
+    
     # Commented out because it looks suspicious
     # https://www.aadvantageeshopping.com/adBlockWhitelist.php
+    https://abpvn.com/filter/abpvn-bOio7G.txt
     https://abpvn.com/vip/admin.txt
     https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+    https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
     https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
     https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
