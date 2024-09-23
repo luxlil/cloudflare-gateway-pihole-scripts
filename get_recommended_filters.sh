@@ -28,5 +28,7 @@ urls=(
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
     https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/1st_domains.txt
     https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/3rd_domains.txt
+    https://raw.githubusercontent.com/ethan-xd/ethan-xd.github.io/master/fb.txt
+    https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt
     # Commented out because it whitelists sites including doubleclick.net and ad.atdmt.com
-    # https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt
+
